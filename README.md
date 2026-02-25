@@ -33,7 +33,7 @@ A real-time sign language alphabet (A-Z) recognition system using computer visio
 
 1. **Clone the repository**:
 ```bash
-cd /Users/ansari.a/Python/sign-language
+cd C:\Users\moins\OneDrive\Desktop\word-detection
 ```
 
 2. **Create a virtual environment** (recommended):
